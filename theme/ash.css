@@ -1,0 +1,35 @@
+/* ash */
+body{ background: #fff;}
+.headersection {background: #333 none repeat scroll 0 0;}
+.icon a {background: #919191 none repeat scroll 0 0;}
+.searchbtn input[type="text"]{border: 1px solid #FFF; background: #FFF;}
+.searchbtn input[type="submit"]{background: #919191 none repeat scroll 0 0; border: 1px solid #919191;}
+.searchbtn input[type="submit"]:hover {background: #636363;border: 1px solid #a9a9a9;}
+.navsection {background: none repeat scroll 0 0 #636363;}
+.navsection ul li {border-right: 1px solid #fff;}
+.navsection ul li a:hover, #active {background: #cacaca;}
+.contentsection{border: 1px solid #b4b4b4;}
+.maincontent {background: #ebebeb none repeat scroll 0 0;border: 1px solid #b8b8b8;}
+.samepost img{border: 1px solid #c6c6c6;}
+.samepost h2 a { color: #616161;}
+.samepost h2, .about h2 {border-bottom: 2px solid #cecece;}
+.samepost h2, .about h2{color: #616161;}
+.readmore a {background: #fff none repeat scroll 0 0;border: 1px solid #8b8b8b;color: #555555;}
+.readmore a:hover {color: #000000;}
+span.pagination a {border:1px solid #979797;}
+span.pagination a:hover {background: #e1e1e1;}
+.footersection{ background: #919191;}
+.footermenu ul li a {color: #dddddd;}
+.samesidebar h2 {background: #a9a9a9;border-bottom: 2px solid #454443;}
+.sidebar {background: #ebebeb;border: 1px solid #b8b8b8;}
+.samesidebar ul li {border-bottom: 1px dashed #a9a9a9;}
+.samesidebar ul li a {color: #6c6c6c;}
+.samesidebar ul li a:hover {color: #1e1d1c;}
+.popular h3 {border-bottom: 1px dashed #a9a9a9;}
+.popular img {border: 1px solid #a9a9a9;}
+.about img {border: 1px solid #979797;}
+.relatedpost h2 {background: #919191 ;border-bottom: 2px solid #595959 !important;}
+input[type="text"], input[type="email"] {border: 1px solid #bcbcbc;}
+textarea{border: 1px solid #bcbcbc;}
+input[type="submit"] {background: #919191;border: 1px solid #919191;}
+input[type="submit"]:hover {background: #c6c6c6;}
